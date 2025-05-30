@@ -24,7 +24,7 @@ The compiler parses LaTeX-inspired DSL syntax into an abstract syntax tree (AST)
   Designed for future phases.
 
 
-Future Work
+Future Work: 
 This compiler represents the foundation of a multi-phase project. Planned expansions include:
 
 PHASE 1: Formalization of Physical Abstraction
