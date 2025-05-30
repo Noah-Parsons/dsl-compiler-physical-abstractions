@@ -21,7 +21,8 @@ The compiler parses LaTeX-inspired DSL syntax into an abstract syntax tree (AST)
   Encodes physical structures using category-theoretic constructs (objects, morphisms, identity, composition), enabling formal reasoning.
 
 - **Extensible Architecture**  
-  Designed for future phases including differential operator support, symbolic simulation, theorem proving, and code generation.
+  Designed for future phases.
+
 
 Future Work
 This compiler represents the foundation of a multi-phase project. Planned expansions include:
@@ -167,24 +168,8 @@ Export results to LaTeX, Jupyter, or formal theorem repositories.
 Host full engine and interface on GitHub.
 Create project site with runnable examples, interactive visualizations, and documentation
 
-Target Applications:
 
-Formal modeling of physical systems
-
-Physics-aware compilers and symbolic engines
-
-Automatic derivation of physical consequences from axioms
-
-Categorical reasoning in physics and computation
-
-Educational tools and research instrumentation
-
-Repository Structure
-.
-├── enhanced_phase_1_1_dsl_compiler.py   # Main compiler source file
-├── README.md                            # Project documentation
-License
-This project is released under the MIT License. See the LICENSE file for details.
+Target Applications: Formal modeling of physical systems, Physics-aware compilers and symbolic engines, Automatic derivation of physical consequences from axioms, Categorical reasoning in physics and computation, Educational tools and research instrumentation
 
 Contact
 For collaboration, feedback, or research inquiries, please open an issue or contact the repository maintainer.
